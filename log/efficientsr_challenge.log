@@ -1,0 +1,134 @@
+21-03-14 17:16:40.431 :       Model Name : RDRN
+21-03-14 17:16:40.448 :           GPU ID : 0
+21-03-14 17:16:42.340 :     #Activations : 238.2889 [M]
+21-03-14 17:16:42.340 :          #Conv2d : 82
+21-03-14 17:16:42.398 :            FLOPs : 38.8429 [G]
+21-03-14 17:16:42.399 :          #Params : 0.5897 [M]
+21-03-14 17:16:42.399 :       Input Path : Test_Datasets/Set5_LR/x4
+21-03-14 17:16:42.399 :      Output Path : Test_Datasets/Set5_LR/x4_RDRN
+21-03-14 17:16:42.399 : ---1--> babyx4.bmp
+21-03-14 17:16:42.480 : ---2--> birdx4.bmp
+21-03-14 17:16:42.500 : ---3--> butterflyx4.bmp
+21-03-14 17:16:42.518 : ---4--> headx4.bmp
+21-03-14 17:16:42.538 : ---5--> womanx4.bmp
+21-03-14 17:16:42.559 : ------> Average runtime of (Test_Datasets/Set5_LR/x4) is : 0.014366 seconds
+21-03-14 17:17:49.873 :       Model Name : RDRN
+21-03-14 17:17:49.890 :           GPU ID : 0
+21-03-14 17:17:51.836 :     #Activations : 238.2889 [M]
+21-03-14 17:17:51.836 :          #Conv2d : 82
+21-03-14 17:17:51.893 :            FLOPs : 38.8429 [G]
+21-03-14 17:17:51.894 :          #Params : 0.5897 [M]
+21-03-14 17:17:51.894 :       Input Path : Test_Datasets/Set5_LR/x4
+21-03-14 17:17:51.894 :      Output Path : Test_Datasets/Set5_LR/x4_RDRN
+21-03-14 17:17:51.894 : ---1--> babyx4.bmp
+21-03-14 17:17:51.973 : ---2--> birdx4.bmp
+21-03-14 17:17:51.993 : ---3--> butterflyx4.bmp
+21-03-14 17:17:52.011 : ---4--> headx4.bmp
+21-03-14 17:17:52.030 : ---5--> womanx4.bmp
+21-03-14 17:17:52.052 : ------> Average runtime of (Test_Datasets/Set5_LR/x4) is : 0.014386 seconds
+21-03-14 17:21:47.443 :       Model Name : RDRN
+21-03-14 17:21:47.460 :           GPU ID : 0
+21-03-14 17:21:49.340 :     #Activations : 238.2889 [M]
+21-03-14 17:21:49.340 :          #Conv2d : 82
+21-03-14 17:21:49.398 :            FLOPs : 38.8429 [G]
+21-03-14 17:21:49.399 :          #Params : 0.5897 [M]
+21-03-14 17:21:49.399 :       Input Path : Test_Datasets/Set5_LR/x4
+21-03-14 17:21:49.399 :      Output Path : Test_Datasets/Set5_LR/x4_RDRN
+21-03-14 17:21:49.399 : ---1--> babyx4.bmp
+21-03-14 17:21:49.495 : ---2--> birdx4.bmp
+21-03-14 17:21:49.516 : ---3--> butterflyx4.bmp
+21-03-14 17:21:49.535 : ---4--> headx4.bmp
+21-03-14 17:21:49.554 : ---5--> womanx4.bmp
+21-03-14 17:21:49.574 : ------> Average runtime of (Test_Datasets/Set5_LR/x4) is : 0.015184 seconds
+21-03-14 17:22:28.815 :       Model Name : RDRN
+21-03-14 17:22:28.835 :           GPU ID : 0
+21-03-14 17:22:30.774 :     #Activations : 236.9126 [M]
+21-03-14 17:22:30.774 :          #Conv2d : 82
+21-03-14 17:22:30.831 :            FLOPs : 38.1988 [G]
+21-03-14 17:22:30.831 :          #Params : 0.5799 [M]
+21-03-14 17:22:30.831 :       Input Path : Test_Datasets/Set5_LR/x3
+21-03-14 17:22:30.831 :      Output Path : Test_Datasets/Set5_LR/x3_RDRN
+21-03-15 09:56:25.766 :       Model Name : RDRN
+21-03-15 09:56:25.786 :           GPU ID : 0
+21-03-15 09:56:27.671 :     #Activations : 238.2889 [M]
+21-03-15 09:56:27.671 :          #Conv2d : 82
+21-03-15 09:56:27.730 :            FLOPs : 38.8429 [G]
+21-03-15 09:56:27.731 :          #Params : 0.5897 [M]
+21-03-15 09:56:27.731 :       Input Path : Test_Datasets/Set5_LR/x4
+21-03-15 09:56:27.731 :      Output Path : Test_Datasets/Set5_LR/x4_RDRN
+21-03-15 09:56:27.731 : ---1--> babyx4.bmp
+21-03-15 09:56:27.812 : ---2--> birdx4.bmp
+21-03-15 09:56:27.832 : ---3--> butterflyx4.bmp
+21-03-15 09:56:27.850 : ---4--> headx4.bmp
+21-03-15 09:56:27.870 : ---5--> womanx4.bmp
+21-03-15 09:56:27.894 : ------> Average runtime of (Test_Datasets/Set5_LR/x4) is : 0.014452 seconds
+21-03-15 09:57:20.784 :       Model Name : RDRN
+21-03-15 09:57:20.802 :           GPU ID : 0
+21-03-15 09:57:22.704 :     #Activations : 238.2889 [M]
+21-03-15 09:57:22.704 :          #Conv2d : 82
+21-03-15 09:57:22.762 :            FLOPs : 38.8429 [G]
+21-03-15 09:57:22.763 :          #Params : 0.5897 [M]
+21-03-15 09:57:22.763 :       Input Path : Test_Datasets/Set5_LR/x4
+21-03-15 09:57:22.763 :      Output Path : Test_Datasets/Set5_LR/x4_RDRN
+21-03-15 09:57:22.763 : ---1--> babyx4.bmp
+21-03-15 09:57:22.842 : ---2--> birdx4.bmp
+21-03-15 09:57:22.862 : ---3--> butterflyx4.bmp
+21-03-15 09:57:22.881 : ---4--> headx4.bmp
+21-03-15 09:57:22.901 : ---5--> womanx4.bmp
+21-03-15 09:57:22.922 : ------> Average runtime of (Test_Datasets/Set5_LR/x4) is : 0.014596 seconds
+21-03-15 10:05:40.214 :       Model Name : RDRN
+21-03-15 10:05:40.231 :           GPU ID : 0
+21-03-15 10:05:42.124 :     #Activations : 238.2889 [M]
+21-03-15 10:05:42.124 :          #Conv2d : 82
+21-03-15 10:05:42.183 :            FLOPs : 38.8429 [G]
+21-03-15 10:05:42.183 :          #Params : 0.5897 [M]
+21-03-15 10:05:42.184 :       Input Path : Test_Datasets/Set5_LR/x4
+21-03-15 10:05:42.184 :      Output Path : Test_Datasets/Set5_LR/x4_RDRN
+21-03-15 10:05:42.184 : ---1--> babyx4.bmp
+21-03-15 10:05:42.264 : ---2--> birdx4.bmp
+21-03-15 10:05:42.283 : ---3--> butterflyx4.bmp
+21-03-15 10:05:42.303 : ---4--> headx4.bmp
+21-03-15 10:05:42.323 : ---5--> womanx4.bmp
+21-03-15 10:05:42.349 : ------> Average runtime of (Test_Datasets/Set5_LR/x4) is : 0.015422 seconds
+21-03-15 11:01:22.529 :       Model Name : RDRN
+21-03-15 11:01:22.546 :           GPU ID : 0
+21-03-15 11:01:24.426 :     #Activations : 238.2889 [M]
+21-03-15 11:01:24.426 :          #Conv2d : 82
+21-03-15 11:01:24.482 :            FLOPs : 38.8429 [G]
+21-03-15 11:01:24.483 :          #Params : 0.5897 [M]
+21-03-15 11:01:24.483 :       Input Path : Test_Datasets/Set5_LR/x4
+21-03-15 11:01:24.483 :      Output Path : Test_Datasets/Set5_LR/x4_RDRN
+21-03-15 11:01:24.483 : ---1--> babyx4.bmp
+21-03-15 11:01:24.562 : ---2--> birdx4.bmp
+21-03-15 11:01:24.582 : ---3--> butterflyx4.bmp
+21-03-15 11:01:24.600 : ---4--> headx4.bmp
+21-03-15 11:01:24.620 : ---5--> womanx4.bmp
+21-03-15 11:01:24.641 : ------> Average runtime of (Test_Datasets/Set5_LR/x4) is : 0.014350 seconds
+21-03-15 11:02:12.970 :       Model Name : RDRN
+21-03-15 11:02:12.987 :           GPU ID : 0
+21-03-15 11:02:14.867 :     #Activations : 238.2889 [M]
+21-03-15 11:02:14.867 :          #Conv2d : 82
+21-03-15 11:02:14.926 :            FLOPs : 38.8429 [G]
+21-03-15 11:02:14.927 :          #Params : 0.5897 [M]
+21-03-15 11:02:14.927 :       Input Path : Test_Datasets/Set5_LR/x4
+21-03-15 11:02:14.927 :      Output Path : Test_Datasets/Set5_LR/x4_RDRN
+21-03-15 11:02:14.927 : ---1--> babyx4.bmp
+21-03-15 11:02:15.008 : ---2--> birdx4.bmp
+21-03-15 11:02:15.028 : ---3--> butterflyx4.bmp
+21-03-15 11:02:15.046 : ---4--> headx4.bmp
+21-03-15 11:02:15.066 : ---5--> womanx4.bmp
+21-03-15 11:02:15.087 : ------> Average runtime of (Test_Datasets/Set5_LR/x4) is : 0.014480 seconds
+21-03-15 16:20:41.575 :       Model Name : RDRN
+21-03-15 16:20:41.594 :           GPU ID : 0
+21-03-15 16:20:43.502 :     #Activations : 238.2889 [M]
+21-03-15 16:20:43.502 :          #Conv2d : 82
+21-03-15 16:20:43.561 :            FLOPs : 38.8429 [G]
+21-03-15 16:20:43.562 :          #Params : 0.5897 [M]
+21-03-15 16:20:43.562 :       Input Path : Test_Datasets/Set5_LR/x4
+21-03-15 16:20:43.562 :      Output Path : Test_Datasets/Set5_LR/x4_RDRN
+21-03-15 16:20:43.562 : ---1--> babyx4.bmp
+21-03-15 16:20:43.641 : ---2--> birdx4.bmp
+21-03-15 16:20:43.661 : ---3--> butterflyx4.bmp
+21-03-15 16:20:43.680 : ---4--> headx4.bmp
+21-03-15 16:20:43.699 : ---5--> womanx4.bmp
+21-03-15 16:20:43.719 : ------> Average runtime of (Test_Datasets/Set5_LR/x4) is : 0.014305 seconds

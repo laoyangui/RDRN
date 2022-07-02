@@ -1,0 +1,9 @@
+**********************
+Method_1: RDRN; Set: Set5
+x4 1 baby_RDRN_x4.png: PSNR= 33.825845 SSIM= 0.894395
+x4 2 bird_RDRN_x4.png: PSNR= 35.105589 SSIM= 0.947304
+x4 3 butterfly_RDRN_x4.png: PSNR= 28.902697 SSIM= 0.927918
+x4 4 head_RDRN_x4.png: PSNR= 32.937642 SSIM= 0.796461
+x4 5 woman_RDRN_x4.png: PSNR= 30.821458 SSIM= 0.915860
+--------Mean--------
+x4: PSNR= 32.318646 SSIM= 0.896387
